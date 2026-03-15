@@ -1,0 +1,37 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# User-specific files
+.vs/
+.vscode/
+*.user
+*.sln.user
+
+# Build output
+dist/
+build/
+
+# Dependencies
+packages/
+node_modules/
+
+# Runtime data
+*.db
+*.sqlite
+
+# Logs
+logs/
+*.log
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
